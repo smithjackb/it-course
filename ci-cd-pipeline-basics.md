@@ -1,3 +1,8 @@
+---
+layout: default
+title: CI/CD Pipeline Basics
+---
+# CI/CD Pipeline Basics using GitHub Actions or Jenkins
 # CI/CD Pipeline Basics using GitHub Actions or Jenkins
 
 Continuous Integration and Continuous Deployment (CI/CD) help automate the software delivery process. This guide walks you through **step-by-step** setup of basic CI/CD pipelines using **GitHub Actions** and **Jenkins**.
