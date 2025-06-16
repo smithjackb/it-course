@@ -5,16 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
-  <meta name="google-site-verification" content="1aGj-JakC4IweC5LYQUYeZ5vaQErvV8UV_nzY6hUxzI" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
     <div class="container">
       <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
       <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/modules/python-basics.html' | relative_url }}">Python Basics</a>
-        <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default" target="_blank" rel="noopener">HTML Tags</a>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/python-basics.html' | relative_url }}">Python</a></li>
+          <li><a href="{{ '/ci-cd-pipeline-basics.html' | relative_url }}">CI/CD</a></li>
+        </ul>
       </nav>
     </div>
   </header>
@@ -25,7 +27,7 @@
 
   <footer>
     <div class="container">
-      <p>© {{ "now" | date: "%Y" }} My IT Course</p>
+      <p>© {{ "now" | date: "%Y" }} {{ site.title }}</p>
     </div>
   </footer>
 </body>
