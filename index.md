@@ -16,3 +16,4 @@ Learn key IT topics in small, focused modules.
 ---
 
 🧑‍🏫 This site is powered by GitHub Pages. New content added weekly!
+- [Networking Basics](networking.html)
