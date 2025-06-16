@@ -1,0 +1,6 @@
+title: IT Course Modules
+description: A website for IT course modules (Python, HTML, Networking, etc.)
+baseurl: ""  # leave empty unless your site is hosted in a subfolder
+url: "https://smithjackb.github.io/it-course"  # replace with your repo GitHub Pages URL
+theme: minima  # simple built-in theme; you can change this later
+markdown: kramdown
