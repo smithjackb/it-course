@@ -154,20 +154,8 @@ pipeline {
 
 ---
 
-# Final Tips
+# Wrap-up
 
-* Start simple: first automate builds and tests.
-* Add deployment once your pipeline runs reliably.
-* Use secrets and environment variables securely.
-* Explore marketplace actions or Jenkins plugins to extend functionality.
+If you're eager to deepen your understanding of **CI/CD pipeline basics using GitHub Actions or Jenkins**, and want to enhance your development skills with comprehensive training, check out **igmGuru**. They offer an excellent [Java course online](https://www.igmguru.com/digital-marketing-programming/java-certification-training) that covers Java fundamentals and related DevOps practices to boost your career.
 
----
-
-If this guide helped, please ⭐ star the repo and share your thoughts!
-
----
-
-*Happy coding!* 🚀
-
-```
-
+Explore their [Java Certification Training](https://www.igmguru.com/digital-marketing-programming/java-certification-training) to get hands-on experience and learn best practices in software development and deployment automation.
