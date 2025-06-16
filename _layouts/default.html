@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1><a href="{{ '/' | relative_url }}">My IT Course</a></h1>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/python-basics.html' | relative_url }}">Python Basics</a>
+        <a href="https://www.igmguru.com/data-science-bi/python-training" target="_blank">HTML Tags</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 My IT Course</p>
+    </div>
+  </footer>
+</body>
+</html>
