@@ -4,6 +4,7 @@ title: Introduction to Generative AI
 permalink: /it-course/generative-ai/
 ---
 
+
 # Introduction to Generative AI
 
 Welcome to the Generative AI module. This section covers the fundamentals, architectures, and tools used in modern generative systems.
