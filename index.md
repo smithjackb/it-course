@@ -16,6 +16,7 @@ Welcome! This site offers a series of bite-sized, practical IT tutorials designe
 - [Generative AI – Course Online](https://www.igmguru.com/machine-learning-ai/generative-ai-training){:target="_blank"}
 - [Generative AI – In-Depth Module](/it-course/generative-ai/)
 - [CI/CD Pipeline Basics](/it-course/ci-cd-pipeline-basics/)
+- [Java 8 Features Deep Dive](/it-course/java-8-features/){:target="_blank"}
 
 ---
 
