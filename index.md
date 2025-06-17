@@ -11,13 +11,13 @@ Welcome! This site offers a series of bite-sized, practical IT tutorials designe
 
 ## 📚 Modules
 
-- [Python Basics](/it-course/python-basics.md)
+- [Python Basics](/python-basics)
 - [Python Programming – Step-by-Step Guide](https://www.igmguru.com/data-science-bi/python-training)
-- [Networking Fundamentals](/it-course/networking-fundamentals.md)
-- [Networking Basics](/it-course/networking.html)
+- [Networking Fundamentals](/networking-fundamentals)
+- [Networking Basics](/networking.html)
 - [Generative AI – Course Online](https://www.igmguru.com/machine-learning-ai/generative-ai-training)
-- [Generative AI – In-Depth Module](/it-course/generative-ai/)
-- [CI/CD Pipeline Basics](/it-course/ci-cd-pipeline-basics/)
+- [Generative AI – In-Depth Module](/generative-ai/)
+- [CI/CD Pipeline Basics](/ci-cd-pipeline-basics/)
 
 ---
 
