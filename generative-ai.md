@@ -85,4 +85,4 @@ The "Attention is All You Need" paper introduced:
 
 ---
 
-**Back to [Home](/)**  
+**Back to [Home](/it-course/)**  
