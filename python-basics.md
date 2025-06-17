@@ -1,6 +1,7 @@
 ---
 title: Python Basics
 layout: default
+permalink: /it-course/python-basics/
 ---
 
 # 🐍 Python Basics
