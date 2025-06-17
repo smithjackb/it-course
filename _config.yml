@@ -16,3 +16,11 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 
+
+---
+
+### ✅ Instructions:
+- Save this content in `it-course/java-8-features.md`.
+- Add a link to it in your `index.md`:
+  ```markdown
+  - [Java 8 Features Deep Dive](/it-course/java-8-features/)
