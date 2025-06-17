@@ -4,18 +4,19 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/it-course/assets/css/style.css' | relative_url }}" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
     <div class="container">
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <h1><a href="{{ '/it-course/' | relative_url }}">{{ site.title }}</a></h1>
       <nav>
         <ul>
-          <li><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li><a href="{{ '/python-basics.html' | relative_url }}">Python</a></li>
-          <li><a href="{{ '/ci-cd-pipeline-basics.html' | relative_url }}">CI/CD</a></li>
+          <li><a href="{{ '/it-course/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/it-course/python-basics.md' | relative_url }}">Python</a></li>
+          <li><a href="{{ '/it-course/ci-cd-pipeline-basics.md' | relative_url }}">CI/CD</a></li>
+          <li><a href="{{ '/it-course/generative-ai/' | relative_url }}">Generative AI</a></li>
         </ul>
       </nav>
     </div>
@@ -27,7 +28,7 @@
 
   <footer>
     <div class="container">
-      <p>© {{ "now" | date: "%Y" }} {{ site.title }}</p>
+      <p>© {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
     </div>
   </footer>
 </body>
