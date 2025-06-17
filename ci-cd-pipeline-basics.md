@@ -1,6 +1,8 @@
 ---
 layout: default
 title: CI/CD Pipeline Basics
+permalink: /it-course/ci-cd-pipeline-basics/
+
 ---
 # CI/CD Pipeline Basics using GitHub Actions or Jenkins
 
