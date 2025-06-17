@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Generative AI
-permalink: /generative-ai/
+permalink: /it-course/generative-ai/
 ---
 
 # Introduction to Generative AI
