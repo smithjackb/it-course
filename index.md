@@ -12,11 +12,9 @@ Welcome! This site offers a series of bite-sized, practical IT tutorials designe
 ## 📚 Modules
 
 - [Python Basics](/it-course/python-basics/)
-- [Python Programming – Step-by-Step Guide](https://www.igmguru.com/data-science-bi/python-training){:target="_blank"}
-- [Generative AI – Course Online](https://www.igmguru.com/machine-learning-ai/generative-ai-training){:target="_blank"}
 - [Generative AI – In-Depth Module](/it-course/generative-ai/)
 - [CI/CD Pipeline Basics](/it-course/ci-cd-pipeline-basics/)
-- [Java 8 Features Deep Dive](/it-course/java-8-features/){:target="_blank"}
+- [Java 8 Features Deep Dive](/it-course/java-8-features/)
 
 ---
 
