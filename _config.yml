@@ -1,7 +1,7 @@
 title: IT Course Modules
 description: A website for IT course modules (Python, HTML, Networking, etc.)
-
-url: "https://smithjackb.github.io/it-course"  # GitHub username domain only
+baseurl: "/it-course"  # required because your site is in a subfolder
+url: "https://smithjackb.github.io/"  # GitHub username domain only
 theme: minima
 markdown: kramdown
 
