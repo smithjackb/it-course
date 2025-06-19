@@ -13,8 +13,8 @@ Welcome! This site offers a series of bite-sized, practical IT tutorials designe
 
 - [Python Basics](/it-course/python-basics/)
 - [Generative AI – In-Depth Module](/it-course/generative-ai/)
-- [CI/CD Pipeline Basics](/it-course/ci-cd-pipeline-basics/)
-- [Java 8 Features Deep Dive](/it-course/java-8-features/)
+- [CI/CD Pipeline Basics](/it-course/it-course/ci-cd-pipeline-basics/)
+- [Java 8 Features Deep Dive](/it-course/it-course/java-8-features/)
 
 ---
 
