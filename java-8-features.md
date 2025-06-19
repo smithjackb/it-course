@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Java 8 Features Deep Dive
-permalink: /java-8-features/
+permalink: /it-course/java-8-features/
 ---
 
 # Java 8 Features Deep Dive
